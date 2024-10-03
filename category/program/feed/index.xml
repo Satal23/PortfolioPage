@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Program &#8211; Portfolio Page</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Oct 2024 00:05:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>WORDLE Game Solver</title>
+		<link>./../../../wordle-game-solver/index.html</link>
+					<comments>./../../../wordle-game-solver/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Sun, 02 Jul 2023 00:04:10 +0000</pubDate>
+				<category><![CDATA[Program]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=81</guid>
+
+					<description><![CDATA[WORDLE Game Solver]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="81" class="elementor elementor-81">
+				<div class="elementor-element elementor-element-9cd2ef5 e-flex e-con-boxed e-con e-parent" data-id="9cd2ef5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8cb8c8f elementor-widget elementor-widget-text-editor" data-id="8cb8c8f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>WORDLE Game Solver</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-a730136 e-con-full e-flex e-con e-child" data-id="a730136" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-cdcdbbc elementor-widget elementor-widget-image" data-id="cdcdbbc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="900" height="506" src="./../../../wp-content/uploads/2024/10/Solver.gif" class="attachment-full size-full wp-image-42" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wordle-game-solver/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
