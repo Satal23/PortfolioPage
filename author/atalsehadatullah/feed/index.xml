@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>atalsehadatullah &#8211; Portfolio Page</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Oct 2024 22:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>3D Steam Game Visceral Abyss</title>
+		<link>./../../../3d-steam-game-visceral-abyss/index.html</link>
+					<comments>./../../../3d-steam-game-visceral-abyss/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Wed, 02 Oct 2024 00:07:26 +0000</pubDate>
+				<category><![CDATA[Game]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=86</guid>
+
+					<description><![CDATA[3D Unity multiplayer game featuring peer-to-peer connectivity and procedural animation for dynamic character movement. Utilizing structured object-oriented programming, it ensures a modular design, while physics-based character controllers enhance realism. The finite state machine AI governs intelligent enemy behavior, creating unique and engaging encounters for players.]]></description>
+										<content:encoded><![CDATA[
+<p>3D Unity multiplayer game featuring peer-to-peer connectivity and procedural animation for dynamic character movement. Utilizing structured object-oriented programming, it ensures a modular design, while physics-based character controllers enhance realism. The finite state machine AI governs intelligent enemy behavior, creating unique and engaging encounters for players.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../3d-steam-game-visceral-abyss/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Procedural Walk and Limb Animation System (IK)</title>
+		<link>./../../../iksystem/index.html</link>
+					<comments>./../../../iksystem/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Mon, 26 Aug 2024 22:48:46 +0000</pubDate>
+				<category><![CDATA[Inverse Kinematics]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Procedural Generation: Inverse Kinematics &#124; Walk IK &#124; Arm IK Overview This procedural animation system employs Inverse Kinematics (IK) to achieve realistic body positioning and dynamic movement for multi-legged characters. This system allows for seamless integration with various animation rigs without requiring modifications, ensuring broad compatibility. It <a href="./../../../iksystem/index.html" class="read-more"> <i class="ion-ios-arrow-right read-more-right"></i></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+				<div class="elementor-element elementor-element-37316b24 e-flex e-con-boxed e-con e-parent" data-id="37316b24" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a03c614 elementor-widget elementor-widget-text-editor" data-id="a03c614" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p>
+<p>Procedural Generation: Inverse Kinematics | Walk IK | Arm IK</p>
+<p></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5520fad e-flex e-con-boxed e-con e-parent" data-id="5520fad" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b1be9ff elementor-widget elementor-widget-image" data-id="b1be9ff" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="900" height="506" src="./../../../wp-content/uploads/2024/10/IKFULL.gif" class="attachment-full size-full wp-image-28" alt="" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-67a8d7b e-flex e-con-boxed e-con e-parent" data-id="67a8d7b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9dda500 elementor-widget elementor-widget-text-editor" data-id="9dda500" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Overview</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1382861f elementor-widget elementor-widget-text-editor" data-id="1382861f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p>
+<p>This procedural animation system employs Inverse Kinematics (IK) to achieve realistic body positioning and dynamic movement for multi-legged characters. This system allows for seamless integration with various animation rigs without requiring modifications, ensuring broad compatibility. It calculates joint movements based on desired end positions, enabling natural leg and arm motions that adapt to the character&#8217;s velocity and terrain.</p>
+<p>Key features include adjustable settings for step distance, height, and speed, allowing developers to fine-tune animations to match gameplay requirements. The system&#8217;s mathematical foundation incorporates velocity calculations, smooth step arc paths, and clamping to prevent excessive speeds. Functions like <code>MakeStep</code> and <code>LegReachedTargetPosition</code> ensure smooth transitions and update leg positions efficiently, while raycasting is utilized to determine ground proximity. Overall, this system enhances the realism and fluidity of character animations, providing a rich and engaging experience for players.</p>
+<p></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b55de5d elementor-widget elementor-widget-text-editor" data-id="b55de5d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>What is Inverse Kinematics?</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-45096d4 elementor-widget elementor-widget-text-editor" data-id="45096d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Inverse Kinematics (IK) is a method used in animation and robotics to calculate the movement of joints in a limb or a chain of limbs. Given a desired end position for a limb (such as a hand or a foot), IK calculates the joint angles needed to achieve that position. This is particularly useful for animating characters in a natural and realistic manner.</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-bdf5601 elementor-widget elementor-widget-text-editor" data-id="bdf5601" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Simple Example: A Two-Joint Arm</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7489478 elementor-widget elementor-widget-text-editor" data-id="7489478" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Consider a simple robotic arm with two joints: the shoulder and the elbow. The goal is to position the hand (end effector) at a specific point in space. IK will determine the angles of the shoulder and elbow joints to place the hand at the target position.</p>
+<p>For example, if the target position for the hand is to reach a point directly in front of the shoulder:</p>
+<ul>
+<li>IK calculates the required angle of the shoulder joint.</li>
+<li>IK calculates the required angle of the elbow joint.</li>
+<li>The arm moves to place the hand at the target position with the calculated joint angles.</li>
+</ul>
+<p>Using IK, animators and developers can create more dynamic and realistic animations without manually adjusting each joint.</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e773ac8 elementor-widget elementor-widget-image" data-id="e773ac8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="640" height="328" src="./../../../wp-content/uploads/2024/10/IKexample-768x394.jpg" class="attachment-medium_large size-medium_large wp-image-27" alt="" srcset="./../../../wp-content/uploads/2024/10/IKexample-768x394.jpg 768w, ./../../../wp-content/uploads/2024/10/IKexample-300x154.jpg 300w, ./../../../wp-content/uploads/2024/10/IKexample.jpg 841w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-a89e10c elementor-widget elementor-widget-image" data-id="a89e10c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="900" height="506" src="./../../../wp-content/uploads/2024/10/IKARMS.gif" class="attachment-full size-full wp-image-26" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-c049c58 elementor-widget elementor-widget-text-editor" data-id="c049c58" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A simple 3-joint example of arm kinematics | shoulder, elbow, wrist.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bdd3ecb elementor-widget elementor-widget-text-editor" data-id="bdd3ecb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Mathematics Behind Functions</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3cd4b42 elementor-widget elementor-widget-text-editor" data-id="3cd4b42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Velocity Calculation</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e33184b elementor-widget elementor-widget-text-editor" data-id="e33184b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The velocity is calculated as the difference between the current and previous positions of the character, divided by the time elapsed:</p>
+<p>velocity = (current position &#8211; last position) / delta time</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e9319c8 elementor-widget elementor-widget-text-editor" data-id="e9319c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Step Arc Path</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9714c6d elementor-widget elementor-widget-text-editor" data-id="9714c6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The height of the leg during a step follows an animation curve defined by legArcPathY. This creates a smooth arc from the start to the end of the step. The height y at any point in the step is given by evaluating the curve at the current progress:</p>
+<p>y = legArcPathY.Evaluate(current) * stepHeight * arcHeightMultiply</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-cb11167 elementor-widget elementor-widget-text-editor" data-id="cb11167" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<p>Clamping and Remapping</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4b36465 elementor-widget elementor-widget-text-editor" data-id="4b36465" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>To ensure the velocity doesn&#8217;t exceed a maximum value, it is clamped and remapped:</p>
+<p>clampDevider = 1 / Remap(velocity.magnitude, 0, velocityClamp, 1, 2)</p>
+<p>The remapping function scales a value from one range to another:</p>
+<p>Remap(x, oldLow, oldHigh, newLow, newHigh) = newLow + ((x &#8211; oldLow) / (oldHigh &#8211; oldLow)) * (newHigh &#8211; newLow)</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9f80c3a elementor-widget elementor-widget-image" data-id="9f80c3a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/KNGif.gif" class="attachment-full size-full wp-image-35" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-4e653d1 elementor-widget elementor-widget-text-editor" data-id="4e653d1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h2><strong class="greenEntry">Main Functions</strong></h2>
+<h3> </h3>
+<h3><strong class="greenEntry">Start</strong></h3>
+<p>Initializes the script, setting up leg positions, timings, and starting the timing update coroutine.</p>
+<h3><strong class="greenEntry">Update</strong></h3>
+<p>Handles the main logic for updating leg positions and movements based on the character&#8217;s velocity. It calculates the velocity, adjusts step timings, and moves legs accordingly.</p>
+<h3><strong class="greenEntry">SetUp</strong></h3>
+<p>Sets up the target step position for a leg based on the character&#8217;s velocity and checks if the target position is valid.</p>
+<h3><strong class="greenEntry">MakeStep</strong></h3>
+<p>Handles the animation of the leg moving to the target step position. Uses a coroutine to smoothly transition the leg from its current position to the target position using an arc path.</p>
+<h3><strong class="greenEntry">LegReachedTargetPosition</strong></h3>
+<p>Updates the leg position once it reaches the target step position and triggers events for visual and sound effects.</p>
+<h3><strong class="greenEntry">UpdateTimings</strong></h3>
+<p>Periodically updates the step timings to ensure they remain synchronized.</p>
+<h3><strong class="greenEntry">GetLegArray</strong></h3>
+<p>Returns the array of leg IK targets.</p>
+<h3><strong class="greenEntry">GetDistanceToTarget</strong></h3>
+<p>Calculates the distance from the current leg position to the target step position.</p>
+<h3><strong class="greenEntry">GetDistanceToGround</strong></h3>
+<p>Calculates the distance from a leg to the ground using a raycast.</p>
+<h3><strong class="greenEntry">IsLegMoving</strong></h3>
+<p>Returns whether a specific leg is currently moving.</p>
+<h3><strong class="greenEntry">GetAverageLegHeight</strong></h3>
+<p>Calculates the average height of all legs from the ground to adjust the body position.</p>
+<h3><strong class="greenEntry">Remap</strong></h3>
+<p>Remaps a value from one range to another.</p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../iksystem/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Multiplayer (P2P, Physics Synchronization)</title>
+		<link>./../../../multiplayer-p2p-physics-synchronization/index.html</link>
+					<comments>./../../../multiplayer-p2p-physics-synchronization/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 23:46:43 +0000</pubDate>
+				<category><![CDATA[Multiplayer]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=54</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="54" class="elementor elementor-54">
+				<div class="elementor-element elementor-element-d6d6da3 e-flex e-con-boxed e-con e-parent" data-id="d6d6da3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ee83b1d elementor-widget elementor-widget-text-editor" data-id="ee83b1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Multiplayer (P2P, Physics Synchronization)</p><p></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8521546 e-flex e-con-boxed e-con e-parent" data-id="8521546" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a643c7d elementor-widget elementor-widget-image" data-id="a643c7d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/Multiplayer.gif" class="attachment-full size-full wp-image-37" alt="" />													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../multiplayer-p2p-physics-synchronization/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Artificial Intelligence &#124; State Machines (PathFinding, Memory, Searching Behaviour)</title>
+		<link>./../../../artificial-intelligence-state-machines-pathfinding-memory-searching-behaviour/index.html</link>
+					<comments>./../../../artificial-intelligence-state-machines-pathfinding-memory-searching-behaviour/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 23:51:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=60</guid>
+
+					<description><![CDATA[Artificial Intelligence &#124; State Machines (PathFinding, Memory, Searching Behaviour)]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="60" class="elementor elementor-60">
+				<div class="elementor-element elementor-element-87e4249 e-flex e-con-boxed e-con e-parent" data-id="87e4249" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7ce131b elementor-widget elementor-widget-text-editor" data-id="7ce131b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Artificial Intelligence | State Machines (PathFinding, Memory, Searching Behaviour)</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-fc095fc e-con-full e-flex e-con e-child" data-id="fc095fc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5a53cd8 elementor-widget elementor-widget-image" data-id="5a53cd8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="900" height="506" src="./../../../wp-content/uploads/2024/10/StateMachine.gif" class="attachment-full size-full wp-image-43" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../artificial-intelligence-state-machines-pathfinding-memory-searching-behaviour/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Artificial Intelligence &#124; Steering AI PathFinding System</title>
+		<link>./../../../artificial-intelligence-steering-ai-pathfinding-system/index.html</link>
+					<comments>./../../../artificial-intelligence-steering-ai-pathfinding-system/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Thu, 04 Apr 2024 23:53:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=65</guid>
+
+					<description><![CDATA[Artificial Intelligence &#124; Steering AI PathFinding System]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="65" class="elementor elementor-65">
+				<div class="elementor-element elementor-element-2212dbf e-flex e-con-boxed e-con e-parent" data-id="2212dbf" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2016ee8 elementor-widget elementor-widget-text-editor" data-id="2016ee8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Artificial Intelligence | Steering AI PathFinding System</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-598d0eb e-con-full e-flex e-con e-child" data-id="598d0eb" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1e1ec2c elementor-widget elementor-widget-image" data-id="1e1ec2c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/SteerinGif.gif" class="attachment-full size-full wp-image-44" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../artificial-intelligence-steering-ai-pathfinding-system/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Procedural 3D Dungeon Generator &#124; Procedural Generation &#124; Path Finding</title>
+		<link>./../../../procedural-3d-dungeon-generator-procedural-generation-path-finding/index.html</link>
+					<comments>./../../../procedural-3d-dungeon-generator-procedural-generation-path-finding/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Mon, 12 Feb 2024 23:56:02 +0000</pubDate>
+				<category><![CDATA[Procedural Generation]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=70</guid>
+
+					<description><![CDATA[Procedural Generation &#124; 3D Dungeon Corridor Path Finding]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="70" class="elementor elementor-70">
+				<div class="elementor-element elementor-element-f72318a e-flex e-con-boxed e-con e-parent" data-id="f72318a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-96c8e56 elementor-widget elementor-widget-text-editor" data-id="96c8e56" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Procedural Generation | 3D Dungeon Corridor Path Finding</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-525dbc6 e-con-full e-flex e-con e-child" data-id="525dbc6" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-e53e164 elementor-widget elementor-widget-image" data-id="e53e164" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/Dungeon.gif" class="attachment-full size-full wp-image-23" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../procedural-3d-dungeon-generator-procedural-generation-path-finding/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Physics Based Vehicle Controller</title>
+		<link>./../../../physics-based-driving-controller/index.html</link>
+					<comments>./../../../physics-based-driving-controller/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Wed, 06 Sep 2023 23:59:16 +0000</pubDate>
+				<category><![CDATA[Controllers]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=75</guid>
+
+					<description><![CDATA[Physics Based Vehicle Controller]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="75" class="elementor elementor-75">
+				<div class="elementor-element elementor-element-e3dd7e0 e-flex e-con-boxed e-con e-parent" data-id="e3dd7e0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6d9e8f8 elementor-widget elementor-widget-text-editor" data-id="6d9e8f8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Physics Based Vehicle Controller</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-7e0b69e e-con-full e-flex e-con e-child" data-id="7e0b69e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b968755 elementor-widget elementor-widget-image" data-id="b968755" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/Vehicle.gif" class="attachment-full size-full wp-image-46" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../physics-based-driving-controller/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WORDLE Game Solver</title>
+		<link>./../../../wordle-game-solver/index.html</link>
+					<comments>./../../../wordle-game-solver/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Sun, 02 Jul 2023 00:04:10 +0000</pubDate>
+				<category><![CDATA[Program]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=81</guid>
+
+					<description><![CDATA[WORDLE Game Solver]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="81" class="elementor elementor-81">
+				<div class="elementor-element elementor-element-9cd2ef5 e-flex e-con-boxed e-con e-parent" data-id="9cd2ef5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8cb8c8f elementor-widget elementor-widget-text-editor" data-id="8cb8c8f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>WORDLE Game Solver</p><p></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-a730136 e-con-full e-flex e-con e-child" data-id="a730136" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-cdcdbbc elementor-widget elementor-widget-image" data-id="cdcdbbc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="900" height="506" src="./../../../wp-content/uploads/2024/10/Solver.gif" class="attachment-full size-full wp-image-42" alt="" />													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../wordle-game-solver/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

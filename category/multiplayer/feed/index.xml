@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Multiplayer &#8211; Portfolio Page</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Oct 2024 00:02:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Multiplayer (P2P, Physics Synchronization)</title>
+		<link>./../../../multiplayer-p2p-physics-synchronization/index.html</link>
+					<comments>./../../../multiplayer-p2p-physics-synchronization/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[atalsehadatullah]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 23:46:43 +0000</pubDate>
+				<category><![CDATA[Multiplayer]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=54</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="54" class="elementor elementor-54">
+				<div class="elementor-element elementor-element-d6d6da3 e-flex e-con-boxed e-con e-parent" data-id="d6d6da3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ee83b1d elementor-widget elementor-widget-text-editor" data-id="ee83b1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p><p>Multiplayer (P2P, Physics Synchronization)</p><p></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8521546 e-flex e-con-boxed e-con e-parent" data-id="8521546" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a643c7d elementor-widget elementor-widget-image" data-id="a643c7d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="600" height="338" src="./../../../wp-content/uploads/2024/10/Multiplayer.gif" class="attachment-full size-full wp-image-37" alt="" />													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../multiplayer-p2p-physics-synchronization/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
